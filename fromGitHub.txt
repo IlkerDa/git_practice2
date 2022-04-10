@@ -1,0 +1,4 @@
+This is awesome file i added directory from GitHub.com
+And now I am about to commit directly to github.com remote repository
+we are just trying simulate whre remote repository history is ahead of local repository history
+in plain english remote 
